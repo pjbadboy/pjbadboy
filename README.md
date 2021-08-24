@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pjbadboy
-- 👀 I’m interested in digital marketing & softwarea
+- 👀 I’m interested in digital marketing & software
 - 🌱 I’m currently learning d.tech in computer science & data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
